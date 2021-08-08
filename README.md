@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanjuanheds
-- 👀 I’m interested in Data Scientist
+- 👀 I’m interested in Data Science and Data Analytics.
 - 🌱 I’m currently learning Python, SQL, Machine Learning.
 - 💞️ I’m looking to collaborate on Data cleaning and predictive models development
 - 📫 Reach me at juanjuanhe@gmail.com
